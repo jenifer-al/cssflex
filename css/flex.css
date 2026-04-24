@@ -1,0 +1,179 @@
+body{
+
+    font-family:  Arial, sans-serif;
+    vertical-align: top;
+    width: 95%;
+     margin:0 ;
+    display: flex;
+
+
+}
+
+
+ aside{
+
+    width:6%;
+    background-color:#DCDCDC;
+    margin-top: 1%;
+    padding-bottom: 1%;
+    max-height:900px;
+    margin-left: 1%;
+   
+    
+
+ }
+
+
+aside img{
+
+    width:30%;
+    text-align: center;
+
+
+
+
+}
+
+
+
+
+
+aside ul li{
+    list-style: none;
+    margin-left: 1%;
+   
+
+
+}
+
+
+main{
+    width: 80%;
+}
+
+
+.activo{
+    border-bottom: 2px solid black;
+    border-radius: 5px;
+    
+
+
+}
+
+
+header{
+    margin-top:5%;
+    display: flex;
+    margin-left: 10%;
+  
+
+}
+
+
+ main header img{
+    width:4%;
+    margin-left:1%;
+    border:1px;
+    border-style: solid;
+    border-radius:50px;
+    
+  
+
+}
+
+
+header input{
+    width: 1200px;
+    height: 36px;
+    flex: 9;
+    border-radius:10px;
+    background-color:#DCDCDC ;
+    border: none;
+
+
+}
+
+
+main nav {
+
+    margin-top:1%;
+    margin-left: 10%;
+
+
+}
+
+main nav a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    margin-right: 5%;
+    font-weight: bold;
+
+
+
+
+}
+
+
+main nav a:hover{
+
+    background-color:#D3D3D3 ;
+    border-radius:5px;
+    padding-left:2%;
+    padding-right:2px;
+    
+
+
+
+}
+
+
+figure img{
+    width: 100%;
+    border-radius:10px;
+
+
+
+}
+
+
+
+main figure{
+
+    width:95%;
+    border:6px;
+    border-style:solid;
+    border-color: #ADD8E6  ;
+    margin-bottom: 2%;
+    margin-right:3%;
+   
+
+}
+
+.contenedor{
+
+
+    display: flex;
+
+
+
+}
+
+.columna{
+
+    display: block;
+
+
+}
+
+.section{
+
+    display: flex;
+
+
+
+}
+
+
+
+
